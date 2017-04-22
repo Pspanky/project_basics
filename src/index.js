@@ -1,4 +1,5 @@
 import $ from 'jquery';
+import React, { Component } from 'react';
 import './style.scss';
 
 let num = 0;
